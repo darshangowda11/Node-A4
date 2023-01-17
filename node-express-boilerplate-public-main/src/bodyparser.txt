@@ -1,0 +1,1 @@
+Using body-parser allows you to access req.body from within routes and use that data.
